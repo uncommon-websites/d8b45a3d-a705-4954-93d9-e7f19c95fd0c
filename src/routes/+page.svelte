@@ -16,7 +16,15 @@
 	imageSrc="/sample.png"
 	generating
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://logo.clearbit.com/prologis.com',
+		'https://logo.clearbit.com/duke-energy.com',
+		'https://logo.clearbit.com/google.com',
+		'https://logo.clearbit.com/digitalrealty.com'
+	]}
+/>
 
 <Summary
 	generating
